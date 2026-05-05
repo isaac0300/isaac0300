@@ -1,4 +1,5 @@
 <h2 align="left">Olá 👋! Meu nome é Isaac Daniel Grangeiro de Oliveira</h2>
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXR6ZHZxOWQ2YjdwZ2t0cHVhNjc4eW1ya2UzbGR2cDAxbXBnNnN6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif" />
 
 <p align="left">
 💻 Estudante de programação focado em desenvolvimento Full Stack <br>
@@ -6,6 +7,7 @@
 🎯 Buscando minha primeira oportunidade como desenvolvedor <br>
 📍 Brasília - DF
 </p>
+<br clear="both">
 
 ---
 
@@ -65,8 +67,12 @@
 
 ---
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/isaac0300/isaac0300/output/snake.svg" alt="Snake animation" />
+## 📂 Alguns dos meus projetos
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXR6ZHZxOWQ2YjdwZ2t0cHVhNjc4eW1ya2UzbGR2cDAxbXBnNnN6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif" />
+🚀 Segue abaixo alguns dos meus repositórios:
+
+<p>
+Feito com dedicação 💻
+</p>
