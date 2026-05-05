@@ -40,4 +40,3 @@
 <img src="https://raw.githubusercontent.com/isaac0300/isaac0300/output/snake.svg" alt="Snake animation" />
 
 ###
--->
