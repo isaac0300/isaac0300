@@ -36,26 +36,17 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac0300&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac0300&layout=compact&theme=dracula" height="150" />
-</div>
-
----
-
 ## 💡 Sobre mim
 
-* Gosto de resolver problemas com código
 * Sempre buscando aprender coisas novas
 * Interesse em desenvolvimento web e backend
+* buscando evoluir cada dia mais!
 
 ---
 
 ## 🧭 Objetivos
 
-* Aprender React
+* Evoluir no React
 * Criar projetos Full Stack completos
 * Conseguir minha primeira vaga como desenvolvedor
 
@@ -64,13 +55,10 @@
 ## 📫 Contato
 
 <div align="left">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:isaacdaniel0030@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://linkedin.com/in/seu-link">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://wa.me/seunumero">
+  <a href="https://wa.me/61983172814">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
