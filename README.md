@@ -48,7 +48,7 @@
 
 ## 🧭 Objetivos
 
-* Evoluir no React
+* Evoluir em Node
 * Criar projetos Full Stack completos
 * Conseguir minha primeira vaga como desenvolvedor
 
