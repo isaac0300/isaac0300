@@ -35,6 +35,7 @@
 * Node.js
 * Segurança e hospedagem
 * Criação de APIs
+* Domínio da Inteligência Artificial
 
 ---
 
