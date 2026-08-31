@@ -5,7 +5,7 @@
 <p align="left">
 💻 Estudante de Desenvolvimento Web e Cibersegurança <br>
 📚 Atualmente cursando o Ensino Médio Integrado ao Curso Técnico <br>
-🚀 Estudando desenvolvimento web, Node.js e fundamentos de cibersegurança <br>
+🚀 Estudando desenvolvimento web, Node.js e cibersegurança <br>
 🎯 Em busca da minha primeira oportunidade profissional na área de TI <br>
 📍 Valparaíso de Goiás - GO
 </p>
