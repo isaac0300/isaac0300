@@ -1,10 +1,16 @@
 # Isaac Daniel Grangeiro de Oliveira
 
-Estudante de Desenvolvimento Web e Cibersegurança, atualmente cursando o Ensino Médio Integrado ao Curso Técnico.
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXR6ZHZxOWQ2YjdwZ2t0cHVhNjc4eW1ya2UzbGR2cDAxbXBnNnN6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif" />
 
-Buscando minha primeira oportunidade profissional na área de TI.
-
+<p align="left">
+💻 Estudante de Desenvolvimento Web e Cibersegurança <br>
+📚 Atualmente cursando o Ensino Médio Integrado ao Curso Técnico <br>
+🚀 Estudando desenvolvimento web, Node.js e fundamentos de cibersegurança <br>
+🎯 Em busca da minha primeira oportunidade profissional na área de TI <br>
 📍 Valparaíso de Goiás - GO
+</p>
+
+<br clear="both">
 
 ---
 
