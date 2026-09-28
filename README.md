@@ -18,20 +18,22 @@
 
 Atualmente estudo e desenvolvo conhecimentos nas seguintes áreas:
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- TypeScript
-- APIs
-- Banco de dados
-- Git e GitHub
-- Fundamentos de Cibersegurança
-- Inteligência Artificial aplicada ao desenvolvimento
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* TypeScript
+* APIs
+* Banco de dados
+* Git e GitHub
+* Docker
+* Fundamentos de Cibersegurança
+* Inteligência Artificial aplicada ao desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,mysql,git,github,docker" />
 
 Conhecimentos em nível básico e em desenvolvimento.
+
 
 ---
 
